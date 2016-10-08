@@ -1,0 +1,4 @@
+C:\Users\CASTLE\Documents\GitHub\Invetory_Management\Inventory_Management\Inventory_Management\bin\Inventory_Management.dll
+C:\Users\CASTLE\Documents\GitHub\Invetory_Management\Inventory_Management\Inventory_Management\bin\Inventory_Management.pdb
+C:\Users\CASTLE\Documents\GitHub\Invetory_Management\Inventory_Management\Inventory_Management\obj\Debug\Inventory_Management.dll
+C:\Users\CASTLE\Documents\GitHub\Invetory_Management\Inventory_Management\Inventory_Management\obj\Debug\Inventory_Management.pdb
